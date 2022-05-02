@@ -9,7 +9,7 @@ Che senso di vuoto quando poi finisce!
 1. Aprire Netflix;
 2.Entrare nella propria area;
 3.Sono da solo o in gruppo;
-4.Se sono da solo scelgo da catalogo Film o Serie(vado al punto 7);
+4.Se sono da solo scelgo da catalogo Film o Serie(vado al punto 6);
 5.Altrimenti in gruppo mettersi d'accordo su genere;
 6. Vedere tempo a disposizione;
 7.	.SE  ho tanto tempo scegliere Film o Maratona Serie tv;
